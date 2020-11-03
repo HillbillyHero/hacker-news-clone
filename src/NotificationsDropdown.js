@@ -5,7 +5,7 @@ import NotificationsBell from './NotificationsBell';
 
 function NoNotifications() {
   return (
-    <a className='dropdown-item' href='#'>No notifications</a>
+    <span className='dropdown-item' href='#'>No notifications</span>
   )
 }
 
