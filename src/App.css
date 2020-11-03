@@ -1,0 +1,44 @@
+body {
+  background-color: #F7FAFC;
+}
+
+.navbar {
+  margin: 12px 0;
+  background-color: #FFF;
+}
+
+.navbar-brand {
+  margin: 0;
+}
+
+.navbar-nav {
+  padding: 0 6px;
+}
+
+.navbar-nav,
+.navbar-nav li {
+  display: inline-block;
+}
+
+.nav-link {
+  padding: 0.5rem 6px !important;
+}
+
+.notifications-bell {
+  cursor: pointer;
+}
+
+.notifications-alert {
+  background-color: #FC6725;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  position: absolute;
+  right: 0;
+}
+
+#notificationsMenu {
+  top: 30px;
+  right: 10px;
+  left: initial;
+}
