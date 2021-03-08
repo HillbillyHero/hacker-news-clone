@@ -1,4 +1,4 @@
-### 4 hour Hacker News coding challenge 
+### 4 hour coding challenge 
 
 ### Run
 ```
